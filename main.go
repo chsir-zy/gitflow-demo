@@ -1,4 +1,3 @@
-
 package main
 
 import "fmt"
@@ -9,5 +8,5 @@ func main() {
 
 	fmt.Println("new branch test")
 
-	fmt.Println("create time")
+	fmt.Println("create time 修复bug")
 }
