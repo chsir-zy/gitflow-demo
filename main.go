@@ -14,5 +14,6 @@ func main() {
 	fmt.Println("create time 修复bug")
 
 	log.Println("hi, log hello world")
+	log.Println("hi, log Hello World")
 
 }
