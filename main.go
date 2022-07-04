@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 func main() {
 	fmt.Println("call main function")
@@ -9,4 +12,7 @@ func main() {
 	fmt.Println("new branch test")
 
 	fmt.Println("create time 修复bug")
+
+	log.Println("hi, log hello world")
+
 }
